@@ -16,15 +16,19 @@ on:
       resourceGroupName:
         description: 'APIM resource group name'
         required: true
+        default: 'APIMDemoQAResourceGroup-EUS1'
       dataFactoryName:
         description: 'APIM name'
         required: true
+        default: 'apim-qa-dc'
       armTemplateFile:
         description: 'ARM template file name'
         required: false
+        default: 'api.json'
       armTemplateParametersFile:
         description: 'ARM template parameters file name'
         required: false
+        default: 'parameters.json'
       additionalParameters:
         description: 'Parameters which will be replaced in the ARM template'
         required: false
