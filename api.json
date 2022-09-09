@@ -29,7 +29,7 @@
         //"format": "openapi-link",
         //"format": "swagger-json",
         //"value": "https://github.com/dcucereavii-ms/colourapi_swagger/blob/main/petstore.yaml",
-        "contentFormat": "swagger-json",
+        "contentFormat": "openapi-link",
         "contentValue": "https://github.com/dcucereavii-ms/colourapi_swagger/blob/main/petstore.yaml",
         //"value": "https://storageaccountapimda4fd.blob.core.windows.net/swagger/markcolorapi.json?sp=r&st=2022-09-08T19:51:03Z&se=2022-09-09T03:51:03Z&spr=https&sv=2021-06-08&sr=b&sig=DnjH8Z08AJ3bG6VnBn%2BiSnagJX%2BGVjH6lmX8w%2FDE8hE%3D",
         //"format": "openapi-link",
